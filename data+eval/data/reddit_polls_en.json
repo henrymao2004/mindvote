@@ -1,0 +1,2758 @@
+[
+  {
+    "question": "Do you think horse racing is inherently unethical?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 36.36,
+        "votes": 2086
+      },
+      {
+        "optionText": "No",
+        "percentage": 53.98,
+        "votes": 3098
+      },
+      {
+        "optionText": "Other",
+        "percentage": 9.66,
+        "votes": 554
+      }
+    ],
+    "totalVotes": 5738
+  },
+  {
+    "question": "Would you rather? $1 or $30?",
+    "totalVotes": 7200,
+    "options": [
+      {
+        "optionText": "Get $1 for every compliment you make to someone",
+        "votes": 2900,
+        "percentage": 40
+      },
+      {
+        "optionText": "Get $30 for every insult you make to someone",
+        "votes": 4300,
+        "percentage": 60
+      }
+    ]
+  },
+  {
+    "question": "Would you rather get $1,000,000 or $10,000, but if you choose the more popular option, you get nothing",
+    "totalVotes": 4300,
+    "options": [
+      {
+        "optionText": "$1,000,000",
+        "votes": 3000,
+        "percentage": 70
+      },
+      {
+        "optionText": "$10,000",
+        "votes": 1300,
+        "percentage": 30
+      }
+    ]
+  },
+  {
+    "question": "Noisy upstairs neighbour: talk to them or leave a note?",
+    "options": [
+      {
+        "optionText": "Knock on the door and talk to them",
+        "percentage": 63.74,
+        "votes": 900
+      },
+      {
+        "optionText": "Slip a note under their door",
+        "percentage": 36.26,
+        "votes": 512
+      }
+    ],
+    "totalVotes": 1412
+  },
+  {
+    "question": "Have you ever been banned from a subreddit?",
+    "totalVotes": 1317,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 591,
+        "percentage": 45
+      },
+      {
+        "optionText": "No",
+        "votes": 726,
+        "percentage": 55
+      }
+    ]
+  },
+  {
+    "question": "Type \"watermelon\" anywhere (using a keyboard only) with you eyes closed. On a scale of 1 to 5, how close were you?",
+    "totalVotes": 11085,
+    "options": [
+      {
+        "optionText": "1",
+        "votes": 738,
+        "percentage": 7
+      },
+      {
+        "optionText": "2",
+        "votes": 547,
+        "percentage": 5
+      },
+      {
+        "optionText": "3",
+        "votes": 1100,
+        "percentage": 10
+      },
+      {
+        "optionText": "4",
+        "votes": 2600,
+        "percentage": 23
+      },
+      {
+        "optionText": "5",
+        "votes": 6100,
+        "percentage": 55
+      }
+    ]
+  },
+  {
+    "question": "How nice do you think you are, honestly?",
+    "options": [
+      {
+        "optionText": "I'm extremely nice — I go out of my way to help others.",
+        "percentage": 7.83,
+        "votes": 55
+      },
+      {
+        "optionText": "I'm pretty nice — I’m kind and considerate most of the time.",
+        "percentage": 41.47,
+        "votes": 292
+      },
+      {
+        "optionText": "I'm average — I try, but I have my moments.",
+        "percentage": 32.26,
+        "votes": 227
+      },
+      {
+        "optionText": "Honestly, I'm not that nice — I’m more blunt or self-focused. — I’m more blunt or self-focused.",
+        "percentage": 12.44,
+        "votes": 88
+      },
+      {
+        "optionText": "I don't even try to be nice — and I’m okay with that.",
+        "percentage": 4.61,
+        "votes": 32
+      },
+      {
+        "optionText": "Results",
+        "percentage": 1.38,
+        "votes": 10
+      }
+    ],
+    "totalVotes": 704
+  },
+  {
+    "question": "I'm giving away free hot dogs, how many would you like?",
+    "options": [
+      {
+        "optionText": "As many as you have, thank you",
+        "percentage": 29.58,
+        "votes": 1944
+      },
+      {
+        "optionText": "More than 3 please",
+        "percentage": 8.45,
+        "votes": 556
+      },
+      {
+        "optionText": "3",
+        "percentage": 17.25,
+        "votes": 1134
+      },
+      {
+        "optionText": "2",
+        "percentage": 26.41,
+        "votes": 1736
+      },
+      {
+        "optionText": "1",
+        "percentage": 13.73,
+        "votes": 903
+      },
+      {
+        "optionText": "None for me",
+        "percentage": 4.58,
+        "votes": 301
+      }
+    ],
+    "totalVotes": 6574
+  },
+  {
+    "question": "How much did you tip last time you went out?",
+    "options": [
+      {
+        "optionText": "0%",
+        "percentage": 50.76,
+        "votes": 1397
+      },
+      {
+        "optionText": "1-5%",
+        "percentage": 3.41,
+        "votes": 94
+      },
+      {
+        "optionText": "5-10%",
+        "percentage": 6.44,
+        "votes": 177
+      },
+      {
+        "optionText": "10-20%",
+        "percentage": 22.73,
+        "votes": 626
+      },
+      {
+        "optionText": "20%+",
+        "percentage": 10.23,
+        "votes": 282
+      },
+      {
+        "optionText": "Results",
+        "percentage": 6.44,
+        "votes": 177
+      }
+    ],
+    "totalVotes": 2753
+  },
+  {
+    "question": "Are you happy with your current weight?",
+    "options": [
+      {
+        "optionText": "No, I want to lose weight",
+        "percentage": 56.09,
+        "votes": 1405
+      },
+      {
+        "optionText": "No, I want to gain weight",
+        "percentage": 17.38,
+        "votes": 436
+      },
+      {
+        "optionText": "Yes",
+        "percentage": 26.52,
+        "votes": 665
+      }
+    ],
+    "totalVotes": 2506
+  },
+  {
+    "question": "When does life begin?",
+    "totalVotes": 12800,
+    "options": [
+      {
+        "optionText": "Conception",
+        "votes": 1400,
+        "percentage": 11
+      },
+      {
+        "optionText": "1st Breath",
+        "votes": 1900,
+        "percentage": 15
+      },
+      {
+        "optionText": "Heartbeat",
+        "votes": 1900,
+        "percentage": 15
+      },
+      {
+        "optionText": "Outside the body",
+        "votes": 4300,
+        "percentage": 33
+      },
+      {
+        "optionText": "Other (Comment)",
+        "votes": 1400,
+        "percentage": 11
+      },
+      {
+        "optionText": "Results",
+        "votes": 1900,
+        "percentage": 15
+      }
+    ]
+  },
+  {
+    "question": "How old is your main computer?",
+    "totalVotes": 1548,
+    "options": [
+      {
+        "optionText": "1 Year old or less",
+        "votes": 284,
+        "percentage": 18
+      },
+      {
+        "optionText": "~3.5 years old",
+        "votes": 682,
+        "percentage": 44
+      },
+      {
+        "optionText": "~5 years old",
+        "votes": 304,
+        "percentage": 20
+      },
+      {
+        "optionText": "~7.5 years old",
+        "votes": 153,
+        "percentage": 10
+      },
+      {
+        "optionText": "10 years old or older",
+        "votes": 87,
+        "percentage": 6
+      },
+      {
+        "optionText": "Results",
+        "votes": 38,
+        "percentage": 2
+      }
+    ]
+  },
+  {
+    "question": "Can you think of something that everyone could agree on, despite the chaotic world we live in?",
+    "totalVotes": 9500,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 4300,
+        "percentage": 45
+      },
+      {
+        "optionText": "No",
+        "votes": 5200,
+        "percentage": 55
+      }
+    ]
+  },
+  {
+    "question": "How many “chuggas” come before “choo choo”?",
+    "totalVotes": 1052,
+    "options": [
+      {
+        "optionText": "2",
+        "votes": 350,
+        "percentage": 33
+      },
+      {
+        "optionText": "4",
+        "votes": 266,
+        "percentage": 25
+      },
+      {
+        "optionText": "6",
+        "votes": 155,
+        "percentage": 15
+      },
+      {
+        "optionText": "8",
+        "votes": 194,
+        "percentage": 19
+      },
+      {
+        "optionText": "12",
+        "votes": 87,
+        "percentage": 8
+      }
+    ]
+  },
+  {
+    "question": "What’s the furthest you think our species could possibly go on the kardashev scale?",
+    "totalVotes": 1095,
+    "options": [
+      {
+        "optionText": "Wtf are you talking about",
+        "votes": 531,
+        "percentage": 48
+      },
+      {
+        "optionText": "Peaks now, at tier 0.7",
+        "votes": 86,
+        "percentage": 8
+      },
+      {
+        "optionText": "Tier 1",
+        "votes": 200,
+        "percentage": 18
+      },
+      {
+        "optionText": "Tier 2",
+        "votes": 161,
+        "percentage": 15
+      },
+      {
+        "optionText": "Tier 3",
+        "votes": 40,
+        "percentage": 4
+      },
+      {
+        "optionText": "Tier 4",
+        "votes": 77,
+        "percentage": 7
+      }
+    ]
+  },
+  {
+    "question": "Should TikTok be Banned?",
+    "totalVotes": 1161,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 485,
+        "percentage": 42
+      },
+      {
+        "optionText": "No",
+        "votes": 676,
+        "percentage": 58
+      }
+    ]
+  },
+  {
+    "question": "Worst parenting style?",
+    "options": [
+      {
+        "optionText": "Authoritarian (disciplines alot, less warmth, strict, angry alot)",
+        "percentage": 36.4,
+        "votes": 847
+      },
+      {
+        "optionText": "Overprotective (Disclipines alot, struggling warmth, lawnmower)",
+        "percentage": 6.74,
+        "votes": 157
+      },
+      {
+        "optionText": "Permissive (Lenient, high warmth, \"best friends\", no rules)",
+        "percentage": 6.74,
+        "votes": 157
+      },
+      {
+        "optionText": "Uninvolved (Lenient, neglects child's needs, can't connect, unavailable)",
+        "percentage": 50.11,
+        "votes": 1167
+      }
+    ],
+    "totalVotes": 2328
+  },
+  {
+    "question": "Non Americans of Reddit, would you want to move to America permanently?",
+    "totalVotes": 9679,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 979,
+        "percentage": 10
+      },
+      {
+        "optionText": "No",
+        "votes": 5700,
+        "percentage": 59
+      },
+      {
+        "optionText": "Results",
+        "votes": 3000,
+        "percentage": 31
+      }
+    ]
+  },
+  {
+    "question": "What time of day are you at your best?",
+    "options": [
+      {
+        "optionText": "2am-6am",
+        "percentage": 5.06,
+        "votes": 83
+      },
+      {
+        "optionText": "6am-10am",
+        "percentage": 13.92,
+        "votes": 229
+      },
+      {
+        "optionText": "10am-2pm",
+        "percentage": 22.78,
+        "votes": 374
+      },
+      {
+        "optionText": "2pm-6pm",
+        "percentage": 16.46,
+        "votes": 270
+      },
+      {
+        "optionText": "6pm-10pm",
+        "percentage": 27.85,
+        "votes": 458
+      },
+      {
+        "optionText": "10pm-2am",
+        "percentage": 13.92,
+        "votes": 229
+      }
+    ],
+    "totalVotes": 1643
+  },
+  {
+    "question": "Roughly 12% of the world is left-handed. Can we prove it?",
+    "totalVotes": 4025,
+    "options": [
+      {
+        "optionText": "I am right-handed",
+        "votes": 3400,
+        "percentage": 85
+      },
+      {
+        "optionText": "I am left-handed",
+        "votes": 492,
+        "percentage": 12
+      },
+      {
+        "optionText": "I am ambidextrous",
+        "votes": 133,
+        "percentage": 3
+      }
+    ]
+  },
+  {
+    "question": "On a scale from 1 to 10, how much do you hate the fact that Reddit only has 6 voting options?",
+    "totalVotes": 4776,
+    "options": [
+      {
+        "optionText": "1",
+        "votes": 433,
+        "percentage": 9
+      },
+      {
+        "optionText": "2",
+        "votes": 242,
+        "percentage": 5
+      },
+      {
+        "optionText": "3",
+        "votes": 268,
+        "percentage": 6
+      },
+      {
+        "optionText": "4",
+        "votes": 281,
+        "percentage": 6
+      },
+      {
+        "optionText": "5",
+        "votes": 252,
+        "percentage": 5
+      },
+      {
+        "optionText": "6",
+        "votes": 3300,
+        "percentage": 69
+      }
+    ]
+  },
+  {
+    "question": "You order a coffee for $6. How much do you tip?",
+    "options": [
+      {
+        "optionText": "$0",
+        "percentage": 68.22,
+        "votes": 4457
+      },
+      {
+        "optionText": "$0.01-$0.99",
+        "percentage": 3.61,
+        "votes": 236
+      },
+      {
+        "optionText": "$1-$2",
+        "percentage": 10.99,
+        "votes": 718
+      },
+      {
+        "optionText": "Whatever 10%-19% is",
+        "percentage": 2.86,
+        "votes": 187
+      },
+      {
+        "optionText": "Flat 20% always",
+        "percentage": 1.51,
+        "votes": 99
+      },
+      {
+        "optionText": "It depends on the store, situation, etc.",
+        "percentage": 12.8,
+        "votes": 836
+      }
+    ],
+    "totalVotes": 6533
+  },
+  {
+    "question": "Do you believe in Astronomy?",
+    "totalVotes": 10700,
+    "options": [
+      {
+        "optionText": "Yes, obviously",
+        "votes": 6400,
+        "percentage": 60
+      },
+      {
+        "optionText": "No, it's fake and made up",
+        "votes": 4300,
+        "percentage": 40
+      }
+    ]
+  },
+  {
+    "question": "Do you think college is a waste of time?",
+    "options": [
+      {
+        "optionText": "Yes (Went)",
+        "percentage": 12.17,
+        "votes": 163
+      },
+      {
+        "optionText": "No (Went)",
+        "percentage": 51.62,
+        "votes": 691
+      },
+      {
+        "optionText": "Yes (Did not go)",
+        "percentage": 5.38,
+        "votes": 72
+      },
+      {
+        "optionText": "No (Did not go)",
+        "percentage": 17.55,
+        "votes": 235
+      },
+      {
+        "optionText": "Results",
+        "percentage": 13.29,
+        "votes": 178
+      }
+    ],
+    "totalVotes": 1339
+  },
+  {
+    "question": "How conservative are you with your upvotes on Reddit?",
+    "totalVotes": 864,
+    "options": [
+      {
+        "optionText": "I upvote everything I see that I don't actively hate",
+        "votes": 37,
+        "percentage": 4
+      },
+      {
+        "optionText": "I upvote everything I see as a decent post",
+        "votes": 227,
+        "percentage": 26
+      },
+      {
+        "optionText": "I only upvote posts that are really good",
+        "votes": 391,
+        "percentage": 45
+      },
+      {
+        "optionText": "I barely vote at all, when I do you know something big happened",
+        "votes": 168,
+        "percentage": 20
+      },
+      {
+        "optionText": "Wait, I can vote?",
+        "votes": 15,
+        "percentage": 2
+      },
+      {
+        "optionText": "I don't have a Reddit account",
+        "votes": 26,
+        "percentage": 3
+      }
+    ]
+  },
+  {
+    "question": "Would you rather be rich or famous? 🤷",
+    "totalVotes": 10267,
+    "options": [
+      {
+        "optionText": "Rick [Rich]",
+        "votes": 9500,
+        "percentage": 93
+      },
+      {
+        "optionText": "Famous",
+        "votes": 767,
+        "percentage": 7
+      }
+    ]
+  },
+  {
+    "question": "Would you rather save the lives of 10,000 pigs or 1 human?",
+    "options": [
+      {
+        "optionText": "10,000 Pigs",
+        "percentage": 27.44,
+        "votes": 1658
+      },
+      {
+        "optionText": "1 Human",
+        "percentage": 72.56,
+        "votes": 4385
+      }
+    ],
+    "totalVotes": 6043
+  },
+  {
+    "question": "How threatened do you feel by AI replacing your job?",
+    "options": [
+      {
+        "optionText": "Not at all threatened",
+        "percentage": 25.43,
+        "votes": 1670
+      },
+      {
+        "optionText": "Slightly threatened",
+        "percentage": 34.57,
+        "votes": 2270
+      },
+      {
+        "optionText": "Moderately threatened",
+        "percentage": 29.13,
+        "votes": 1913
+      },
+      {
+        "optionText": "Very threatened",
+        "percentage": 10.87,
+        "votes": 714
+      }
+    ],
+    "totalVotes": 6567
+  },
+  {
+    "question": "How hot it is today in your area ?",
+    "options": [
+      {
+        "optionText": "<0°",
+        "percentage": 1.18,
+        "votes": 92
+      },
+      {
+        "optionText": "0-10°",
+        "percentage": 2.05,
+        "votes": 160
+      },
+      {
+        "optionText": "10-20°",
+        "percentage": 10.23,
+        "votes": 799
+      },
+      {
+        "optionText": "20-30°",
+        "percentage": 31.11,
+        "votes": 2429
+      },
+      {
+        "optionText": "30-40°",
+        "percentage": 44.89,
+        "votes": 3504
+      },
+      {
+        "optionText": "40°+",
+        "percentage": 10.55,
+        "votes": 824
+      }
+    ],
+    "totalVotes": 7808
+  },
+  {
+    "question": "If you see \"If your'e reading this, I won the debate\" on someone's profile, what would you most likely think?",
+    "options": [
+      {
+        "optionText": "Woah, this guy's smart. I should be careful next time I engage in intellectual discourse with them.",
+        "percentage": 3.62,
+        "votes": 180
+      },
+      {
+        "optionText": "Wow, what a complete loser. All i can do is hope they get offline before they die of cardiac arrest.",
+        "percentage": 60.45,
+        "votes": 3002
+      },
+      {
+        "optionText": "I have never seen this/results",
+        "percentage": 35.93,
+        "votes": 1785
+      }
+    ],
+    "totalVotes": 4967
+  },
+  {
+    "question": "Are you a globe earther or flat earth?",
+    "totalVotes": 1185,
+    "options": [
+      {
+        "optionText": "I believe I live on a ball world",
+        "votes": 1000,
+        "percentage": 84
+      },
+      {
+        "optionText": "I believe I live on a waffle/Pizza world",
+        "votes": 185,
+        "percentage": 16
+      }
+    ]
+  },
+  {
+    "question": "Your close friend is going through a break up and wants to come over. You accept even though you’re not in the best mood. After about 2hrs (walking together and chatting) they text their other friend and decide to visit them without asking you. Did the friend do anything rude?",
+    "options": [
+      {
+        "optionText": "Definitely not rude",
+        "percentage": 5,
+        "votes": 61
+      },
+      {
+        "optionText": "Not rude",
+        "percentage": 22.5,
+        "votes": 273
+      },
+      {
+        "optionText": "A bit rude",
+        "percentage": 46.67,
+        "votes": 565
+      },
+      {
+        "optionText": "Rude",
+        "percentage": 10.83,
+        "votes": 131
+      },
+      {
+        "optionText": "Definitely rude",
+        "percentage": 8.33,
+        "votes": 101
+      },
+      {
+        "optionText": "Results",
+        "percentage": 6.67,
+        "votes": 81
+      }
+    ],
+    "totalVotes": 1212
+  },
+  {
+    "question": "Would you date someone who is bisexual? (in this poll, 22% of the voters are women)",
+    "totalVotes": 10190,
+    "options": [
+      {
+        "optionText": "Yes (Female)",
+        "votes": 1900,
+        "percentage": 18
+      },
+      {
+        "optionText": "No (Female)",
+        "votes": 290,
+        "percentage": 3
+      },
+      {
+        "optionText": "Yes (Male)",
+        "votes": 6700,
+        "percentage": 66
+      },
+      {
+        "optionText": "No (Male)",
+        "votes": 1300,
+        "percentage": 13
+      }
+    ]
+  },
+  {
+    "question": "There is an alien invasion and you have the powers of the last video game character you played .How fucked are you ?",
+    "totalVotes": 11000,
+    "options": [
+      {
+        "optionText": "Mow through them like the lawn",
+        "votes": 4100,
+        "percentage": 38
+      },
+      {
+        "optionText": "Will survive somehow",
+        "votes": 3100,
+        "percentage": 28
+      },
+      {
+        "optionText": "Barely survive with some luck",
+        "votes": 1900,
+        "percentage": 17
+      },
+      {
+        "optionText": "I fucked up",
+        "votes": 1900,
+        "percentage": 17
+      }
+    ]
+  },
+  {
+    "question": "Did any kid at your school die?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 57.65,
+        "votes": 3077
+      },
+      {
+        "optionText": "No",
+        "percentage": 32.12,
+        "votes": 1714
+      },
+      {
+        "optionText": "Not at school but extracurricular or college or similar",
+        "percentage": 6.38,
+        "votes": 341
+      },
+      {
+        "optionText": "Results",
+        "percentage": 3.85,
+        "votes": 205
+      }
+    ],
+    "totalVotes": 5337
+  },
+  {
+    "question": "What’s your hair type?",
+    "options": [
+      {
+        "optionText": "Type 1 (Straight)",
+        "percentage": 42.77,
+        "votes": 1691
+      },
+      {
+        "optionText": "Type 2 (Wavy)",
+        "percentage": 36.14,
+        "votes": 1430
+      },
+      {
+        "optionText": "Type 3 (Curly)",
+        "percentage": 9.04,
+        "votes": 358
+      },
+      {
+        "optionText": "Type 4 (Coily/Kinky)",
+        "percentage": 7.23,
+        "votes": 286
+      },
+      {
+        "optionText": "Results",
+        "percentage": 4.82,
+        "votes": 191
+      }
+    ],
+    "totalVotes": 3956
+  },
+  {
+    "question": "Your username is turned into reality and thrown at your face at 35 kilometers an hour (22 mph rounded up) how fucked are you?",
+    "totalVotes": 11119,
+    "options": [
+      {
+        "optionText": "Totally fine",
+        "votes": 2600,
+        "percentage": 23
+      },
+      {
+        "optionText": "Hurts but fine",
+        "votes": 2200,
+        "percentage": 20
+      },
+      {
+        "optionText": "In the hospital",
+        "votes": 2500,
+        "percentage": 22
+      },
+      {
+        "optionText": "IM ABSOLUTELY FUCKED",
+        "votes": 1800,
+        "percentage": 16
+      },
+      {
+        "optionText": "THE PLANET ALSO DYING",
+        "votes": 519,
+        "percentage": 5
+      },
+      {
+        "optionText": "Results",
+        "votes": 1500,
+        "percentage": 14
+      }
+    ]
+  },
+  {
+    "question": "What are your thoughts on \"The America Party\" by Elon?",
+    "options": [
+      {
+        "optionText": "Positive",
+        "percentage": 7.93,
+        "votes": 60
+      },
+      {
+        "optionText": "Negative",
+        "percentage": 57.86,
+        "votes": 440
+      },
+      {
+        "optionText": "Neutral",
+        "percentage": 21.15,
+        "votes": 161
+      },
+      {
+        "optionText": "Results",
+        "percentage": 13.07,
+        "votes": 99
+      }
+    ],
+    "totalVotes": 760
+  },
+  {
+    "question": "How many times have you been to the cinema this year?",
+    "totalVotes": 911,
+    "options": [
+      {
+        "optionText": "0",
+        "votes": 378,
+        "percentage": 41
+      },
+      {
+        "optionText": "1",
+        "votes": 187,
+        "percentage": 21
+      },
+      {
+        "optionText": "2",
+        "votes": 131,
+        "percentage": 14
+      },
+      {
+        "optionText": "3",
+        "votes": 74,
+        "percentage": 8
+      },
+      {
+        "optionText": "4",
+        "votes": 42,
+        "percentage": 5
+      },
+      {
+        "optionText": "5+",
+        "votes": 99,
+        "percentage": 11
+      }
+    ]
+  },
+  {
+    "question": "When it comes to music, do you believe someone when they say they'll listen to anything?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 31.4,
+        "votes": 234
+      },
+      {
+        "optionText": "No",
+        "percentage": 64.51,
+        "votes": 479
+      },
+      {
+        "optionText": "Results",
+        "percentage": 4.1,
+        "votes": 31
+      }
+    ],
+    "totalVotes": 744
+  },
+  {
+    "question": "Do you read every poll option before answering?",
+    "totalVotes": 4729,
+    "options": [
+      {
+        "optionText": "Always",
+        "votes": 803,
+        "percentage": 17
+      },
+      {
+        "optionText": "Usually",
+        "votes": 874,
+        "percentage": 18
+      },
+      {
+        "optionText": "Sometimes",
+        "votes": 263,
+        "percentage": 6
+      },
+      {
+        "optionText": "Rarely",
+        "votes": 60,
+        "percentage": 1
+      },
+      {
+        "optionText": "Never",
+        "votes": 129,
+        "percentage": 3
+      },
+      {
+        "optionText": "Vote this option if you read it",
+        "votes": 2600,
+        "percentage": 55
+      }
+    ]
+  },
+  {
+    "question": "Would you delete your account right now if I offer to pay you your karma in USD?",
+    "totalVotes": 1566,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 1300,
+        "percentage": 83
+      },
+      {
+        "optionText": "Nah",
+        "votes": 228,
+        "percentage": 15
+      },
+      {
+        "optionText": "Results",
+        "votes": 38,
+        "percentage": 2
+      }
+    ]
+  },
+  {
+    "question": "The government is giving you a lifetime supply of the last thing you bought. Is it good?",
+    "totalVotes": 9229,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 6600,
+        "percentage": 71
+      },
+      {
+        "optionText": "No",
+        "votes": 2000,
+        "percentage": 22
+      },
+      {
+        "optionText": "Results",
+        "votes": 629,
+        "percentage": 7
+      }
+    ]
+  },
+  {
+    "question": "Is 40 old???????????",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 14.06,
+        "votes": 178
+      },
+      {
+        "optionText": "No",
+        "percentage": 43.51,
+        "votes": 551
+      },
+      {
+        "optionText": "Kinda",
+        "percentage": 40.16,
+        "votes": 509
+      },
+      {
+        "optionText": "Results",
+        "percentage": 2.28,
+        "votes": 29
+      }
+    ],
+    "totalVotes": 1267
+  },
+  {
+    "question": "What’s your net feelings when you hear/see the word feminism? (Assume 81% Male, 17% Female voted. )",
+    "totalVotes": 11941,
+    "options": [
+      {
+        "optionText": "Negative (male)",
+        "votes": 3200,
+        "percentage": 27
+      },
+      {
+        "optionText": "Negative (female)",
+        "votes": 409,
+        "percentage": 3
+      },
+      {
+        "optionText": "Neutral (male)",
+        "votes": 3900,
+        "percentage": 33
+      },
+      {
+        "optionText": "Neutral (female)",
+        "votes": 632,
+        "percentage": 5
+      },
+      {
+        "optionText": "Positive (male)",
+        "votes": 2700,
+        "percentage": 23
+      },
+      {
+        "optionText": "Positive (female)",
+        "votes": 1100,
+        "percentage": 9
+      }
+    ]
+  },
+  {
+    "question": "What day is your birthday?",
+    "totalVotes": 5457,
+    "options": [
+      {
+        "optionText": "1 - 5",
+        "votes": 909,
+        "percentage": 17
+      },
+      {
+        "optionText": "6 - 10",
+        "votes": 887,
+        "percentage": 16
+      },
+      {
+        "optionText": "11 - 15",
+        "votes": 895,
+        "percentage": 16
+      },
+      {
+        "optionText": "16 - 20",
+        "votes": 900,
+        "percentage": 16
+      },
+      {
+        "optionText": "21 - 25",
+        "votes": 904,
+        "percentage": 17
+      },
+      {
+        "optionText": "26 - 31",
+        "votes": 962,
+        "percentage": 18
+      }
+    ]
+  },
+  {
+    "question": "When referencing a subreddit that starts with a consonant, do you use \"a\" or \"an\" when using it as a noun or adjective?",
+    "options": [
+      {
+        "optionText": "a",
+        "percentage": 33.33,
+        "votes": 764
+      },
+      {
+        "optionText": "an",
+        "percentage": 52.03,
+        "votes": 1192
+      },
+      {
+        "optionText": "Interchangeable",
+        "percentage": 14.63,
+        "votes": 335
+      }
+    ],
+    "totalVotes": 2291
+  },
+  {
+    "question": "Should we normalise men wearing skirts? (Assume 80% Male, 16% Female, 3% Others voted - add to 99%)",
+    "totalVotes": 13949,
+    "options": [
+      {
+        "optionText": "Yes (Male)",
+        "votes": 6100,
+        "percentage": 44
+      },
+      {
+        "optionText": "No (Male)",
+        "votes": 5000,
+        "percentage": 36
+      },
+      {
+        "optionText": "Yes (Female)",
+        "votes": 2000,
+        "percentage": 14
+      },
+      {
+        "optionText": "No (Female)",
+        "votes": 334,
+        "percentage": 2
+      },
+      {
+        "optionText": "Yes (Others)",
+        "votes": 346,
+        "percentage": 3
+      },
+      {
+        "optionText": "No (Others)",
+        "votes": 169,
+        "percentage": 1
+      }
+    ]
+  },
+  {
+    "question": "If a fully functioning city were established in Antarctica, would you live there?",
+    "options": [
+      {
+        "optionText": "Hell no",
+        "percentage": 55.38,
+        "votes": 1332
+      },
+      {
+        "optionText": "Sign me up",
+        "percentage": 25.47,
+        "votes": 613
+      },
+      {
+        "optionText": "Only in the summer",
+        "percentage": 11.62,
+        "votes": 279
+      },
+      {
+        "optionText": "Results/Idk what Antarctica is",
+        "percentage": 7.52,
+        "votes": 181
+      }
+    ],
+    "totalVotes": 2405
+  },
+  {
+    "question": "Do you like pickles?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 71.1,
+        "votes": 3298
+      },
+      {
+        "optionText": "No",
+        "percentage": 25.48,
+        "votes": 1182
+      },
+      {
+        "optionText": "Results",
+        "percentage": 3.42,
+        "votes": 159
+      }
+    ],
+    "totalVotes": 4639
+  },
+  {
+    "question": "The last video game character you played as has to defend you against 1,000 zombies. Are you surviving?",
+    "totalVotes": 11062,
+    "options": [
+      {
+        "optionText": "Yes 100%",
+        "votes": 4800,
+        "percentage": 43
+      },
+      {
+        "optionText": "Probably",
+        "votes": 3100,
+        "percentage": 28
+      },
+      {
+        "optionText": "Unlikely",
+        "votes": 1300,
+        "percentage": 12
+      },
+      {
+        "optionText": "Definetly not",
+        "votes": 1400,
+        "percentage": 13
+      },
+      {
+        "optionText": "Don't play video games / results",
+        "votes": 462,
+        "percentage": 4
+      }
+    ]
+  },
+  {
+    "question": "Which of these 5 year periods was the worst in your opinion?",
+    "options": [
+      {
+        "optionText": "2000-2004",
+        "percentage": 5.92,
+        "votes": 322
+      },
+      {
+        "optionText": "2005-2009",
+        "percentage": 5.92,
+        "votes": 322
+      },
+      {
+        "optionText": "2010-2014",
+        "percentage": 1.35,
+        "votes": 73
+      },
+      {
+        "optionText": "2015-2019",
+        "percentage": 10.83,
+        "votes": 588
+      },
+      {
+        "optionText": "2020-2024",
+        "percentage": 66.67,
+        "votes": 3620
+      },
+      {
+        "optionText": "I liked them all/No opinion/Results",
+        "percentage": 9.31,
+        "votes": 506
+      }
+    ],
+    "totalVotes": 5431
+  },
+  {
+    "question": "Would you rather be the best player on the worst team or the worst player on the best team?",
+    "totalVotes": 712,
+    "options": [
+      {
+        "optionText": "Best player in the worst team",
+        "votes": 354,
+        "percentage": 50
+      },
+      {
+        "optionText": "Worst player on the best team",
+        "votes": 358,
+        "percentage": 50
+      }
+    ]
+  },
+  {
+    "question": "Would you rather walk early in the morning (high humidity and low UVI) or walk in the afternoon (low humid, high UVI and hotter temps)?",
+    "options": [
+      {
+        "optionText": "Morning",
+        "percentage": 65.48,
+        "votes": 469
+      },
+      {
+        "optionText": "Afternoon",
+        "percentage": 21.43,
+        "votes": 154
+      },
+      {
+        "optionText": "No preference",
+        "percentage": 8.33,
+        "votes": 60
+      },
+      {
+        "optionText": "Results",
+        "percentage": 4.76,
+        "votes": 34
+      }
+    ],
+    "totalVotes": 717
+  },
+  {
+    "question": "Have you ever smoked a cigarette?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 39.74,
+        "votes": 2026
+      },
+      {
+        "optionText": "No",
+        "percentage": 59.4,
+        "votes": 3028
+      },
+      {
+        "optionText": "Results",
+        "percentage": 0.85,
+        "votes": 43
+      }
+    ],
+    "totalVotes": 5097
+  },
+  {
+    "question": "Have you ever used an AI to do homework for you (math, science, English papers, etc.) in 2024?",
+    "totalVotes": 1038,
+    "options": [
+      {
+        "optionText": "Yes, for some subjects",
+        "votes": 161,
+        "percentage": 15
+      },
+      {
+        "optionText": "Yes, for all classes",
+        "votes": 65,
+        "percentage": 6
+      },
+      {
+        "optionText": "Yes, but only to assist me",
+        "votes": 210,
+        "percentage": 20
+      },
+      {
+        "optionText": "Very Rarely",
+        "votes": 79,
+        "percentage": 8
+      },
+      {
+        "optionText": "No, I have never used AI for homework",
+        "votes": 485,
+        "percentage": 47
+      },
+      {
+        "optionText": "Results",
+        "votes": 38,
+        "percentage": 4
+      }
+    ]
+  },
+  {
+    "question": "Were the nuclear bombings of Hiroshima and Nagasaki justified?",
+    "totalVotes": 12200,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 4800,
+        "percentage": 39
+      },
+      {
+        "optionText": "No",
+        "votes": 7400,
+        "percentage": 61
+      }
+    ]
+  },
+  {
+    "question": "Do you think allowing citizens to own guns makes life more or less safe? Assume 46% American, 41% Non-American voted. (13% selected options not specific to nationality or 'results').",
+    "totalVotes": 11913,
+    "options": [
+      {
+        "optionText": "More (American)",
+        "votes": 2100,
+        "percentage": 18
+      },
+      {
+        "optionText": "Less (American)",
+        "votes": 3300,
+        "percentage": 28
+      },
+      {
+        "optionText": "More (Non-American)",
+        "votes": 619,
+        "percentage": 5
+      },
+      {
+        "optionText": "Less (Non-American)",
+        "votes": 4300,
+        "percentage": 36
+      },
+      {
+        "optionText": "No difference",
+        "votes": 767,
+        "percentage": 6
+      },
+      {
+        "optionText": "No idea / Results",
+        "votes": 827,
+        "percentage": 7
+      }
+    ]
+  },
+  {
+    "question": "When you finish a book, do you read the acknowledgments?",
+    "options": [
+      {
+        "optionText": "Yeah, always",
+        "percentage": 10.76,
+        "votes": 229
+      },
+      {
+        "optionText": "Sometimes, when I feel like it",
+        "percentage": 42.01,
+        "votes": 894
+      },
+      {
+        "optionText": "No",
+        "percentage": 46.18,
+        "votes": 983
+      },
+      {
+        "optionText": "Results",
+        "percentage": 1.04,
+        "votes": 22
+      }
+    ],
+    "totalVotes": 2128
+  },
+  {
+    "question": "If you were reincarnated into the last game you played, how would you do?",
+    "totalVotes": 1156,
+    "options": [
+      {
+        "optionText": "✅️ I'd do great!",
+        "votes": 275,
+        "percentage": 24
+      },
+      {
+        "optionText": "➖️ I'd be okay for the most part...",
+        "votes": 283,
+        "percentage": 25
+      },
+      {
+        "optionText": "⚠️ I wouldn't be doing great.",
+        "votes": 128,
+        "percentage": 11
+      },
+      {
+        "optionText": "❌️ There's a chance I might not make it...",
+        "votes": 152,
+        "percentage": 13
+      },
+      {
+        "optionText": "⚰️ I'm not surviving...",
+        "votes": 174,
+        "percentage": 15
+      },
+      {
+        "optionText": "☠️ There's no way I CAN live!",
+        "votes": 144,
+        "percentage": 12
+      }
+    ]
+  },
+  {
+    "question": "What difficulty do you tend to play video games on when given the option?",
+    "totalVotes": 1015,
+    "options": [
+      {
+        "optionText": "Very easy",
+        "votes": 52,
+        "percentage": 5
+      },
+      {
+        "optionText": "Easy",
+        "votes": 141,
+        "percentage": 14
+      },
+      {
+        "optionText": "Medium",
+        "votes": 580,
+        "percentage": 57
+      },
+      {
+        "optionText": "Hard",
+        "votes": 162,
+        "percentage": 16
+      },
+      {
+        "optionText": "Very hard",
+        "votes": 59,
+        "percentage": 6
+      },
+      {
+        "optionText": "Results",
+        "votes": 21,
+        "percentage": 2
+      }
+    ]
+  },
+  {
+    "question": "You are in Target and you see a young mom stealing baby food. Would you do something about it?",
+    "totalVotes": 11940,
+    "options": [
+      {
+        "optionText": "No",
+        "votes": 10000,
+        "percentage": 84
+      },
+      {
+        "optionText": "I would report her",
+        "votes": 405,
+        "percentage": 3
+      },
+      {
+        "optionText": "I would stop her",
+        "votes": 378,
+        "percentage": 3
+      },
+      {
+        "optionText": "I would stop her and then report her",
+        "votes": 231,
+        "percentage": 2
+      },
+      {
+        "optionText": "Results",
+        "votes": 926,
+        "percentage": 8
+      }
+    ]
+  },
+  {
+    "question": "How many countries are in North America?",
+    "totalVotes": 12903,
+    "options": [
+      {
+        "optionText": "1",
+        "votes": 260,
+        "percentage": 2
+      },
+      {
+        "optionText": "2",
+        "votes": 1900,
+        "percentage": 15
+      },
+      {
+        "optionText": "3",
+        "votes": 6200,
+        "percentage": 48
+      },
+      {
+        "optionText": "4",
+        "votes": 568,
+        "percentage": 4
+      },
+      {
+        "optionText": "5",
+        "votes": 275,
+        "percentage": 2
+      },
+      {
+        "optionText": "6 or above",
+        "votes": 3700,
+        "percentage": 29
+      }
+    ]
+  },
+  {
+    "question": "Without looking it up, do you know what AO3 is? Assume 68% Male, 24% Female, 4% Others voted. ",
+    "totalVotes": 1250,
+    "options": [
+      {
+        "optionText": "yes (I'm male)",
+        "votes": 263,
+        "percentage": 21
+      },
+      {
+        "optionText": "no (I'm male)",
+        "votes": 620,
+        "percentage": 50
+      },
+      {
+        "optionText": "yes (I'm female)",
+        "votes": 210,
+        "percentage": 17
+      },
+      {
+        "optionText": "no (I'm female)",
+        "votes": 105,
+        "percentage": 8
+      },
+      {
+        "optionText": "yes (other)",
+        "votes": 39,
+        "percentage": 3
+      },
+      {
+        "optionText": "no (other)",
+        "votes": 13,
+        "percentage": 1
+      }
+    ]
+  },
+  {
+    "question": "The minimum age requirement to be elected President of the United States is 35. Do you think there should be a maximum age upon election?",
+    "totalVotes": 9816,
+    "options": [
+      {
+        "optionText": "Yes (leave what you think should be the maximum in the comments)",
+        "votes": 8000,
+        "percentage": 82
+      },
+      {
+        "optionText": "No",
+        "votes": 1000,
+        "percentage": 10
+      },
+      {
+        "optionText": "I have no opinion/Results",
+        "votes": 816,
+        "percentage": 8
+      }
+    ]
+  },
+  {
+    "question": "What is your general opinion towards Edward Snowden?",
+    "options": [
+      {
+        "optionText": "very negative",
+        "percentage": 4.23,
+        "votes": 269
+      },
+      {
+        "optionText": "negative",
+        "percentage": 10.05,
+        "votes": 640
+      },
+      {
+        "optionText": "neutral",
+        "percentage": 20.63,
+        "votes": 1313
+      },
+      {
+        "optionText": "positive",
+        "percentage": 23.28,
+        "votes": 1482
+      },
+      {
+        "optionText": "very positive",
+        "percentage": 18.52,
+        "votes": 1179
+      },
+      {
+        "optionText": "never heard of him",
+        "percentage": 23.28,
+        "votes": 1482
+      }
+    ],
+    "totalVotes": 6365
+  },
+  {
+    "question": "Whats the solution for this 1+1+1+1+1×0 = ?",
+    "totalVotes": 11000,
+    "options": [
+      {
+        "optionText": "0",
+        "votes": 3000,
+        "percentage": 27
+      },
+      {
+        "optionText": "4",
+        "votes": 8000,
+        "percentage": 73
+      }
+    ]
+  },
+  {
+    "question": "Have you ever been within 10 feet of a cow? Edit: I mean live cows, beef doesn't count",
+    "totalVotes": 12200,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 11000,
+        "percentage": 90
+      },
+      {
+        "optionText": "No",
+        "votes": 1200,
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "question": "If a friend says a YouTube channel you've never heard of is cringe, would that put you off from watching them?",
+    "totalVotes": 1062,
+    "options": [
+      {
+        "optionText": "yes",
+        "votes": 265,
+        "percentage": 25
+      },
+      {
+        "optionText": "Not if a single friend told me, but yes if multiple friends",
+        "votes": 242,
+        "percentage": 23
+      },
+      {
+        "optionText": "no",
+        "votes": 147,
+        "percentage": 14
+      },
+      {
+        "optionText": "I'd probably forget TBH.",
+        "votes": 408,
+        "percentage": 38
+      }
+    ]
+  },
+  {
+    "question": "The last thing you ate is what you name your future child, how bad are they getting bullied for it?",
+    "totalVotes": 9010,
+    "options": [
+      {
+        "optionText": "Not bullied at all",
+        "votes": 568,
+        "percentage": 6
+      },
+      {
+        "optionText": "Made fun of",
+        "votes": 2200,
+        "percentage": 25
+      },
+      {
+        "optionText": "Mildly bullied",
+        "votes": 2000,
+        "percentage": 22
+      },
+      {
+        "optionText": "Constantly bullied",
+        "votes": 3700,
+        "percentage": 41
+      },
+      {
+        "optionText": "Results",
+        "votes": 542,
+        "percentage": 6
+      }
+    ]
+  },
+  {
+    "question": "If you had to make an argumentative essay for school that goes against your beliefs, what would you do?",
+    "options": [
+      {
+        "optionText": "Refuse/ argue against the assignment",
+        "percentage": 7.92,
+        "votes": 461
+      },
+      {
+        "optionText": "ChatGPT😐",
+        "percentage": 6.79,
+        "votes": 395
+      },
+      {
+        "optionText": "Try to understand the other belief",
+        "percentage": 29.86,
+        "votes": 1739
+      },
+      {
+        "optionText": "Make the essay, but low effort",
+        "percentage": 10.86,
+        "votes": 632
+      },
+      {
+        "optionText": "Make the essay about your beliefs instead",
+        "percentage": 7.69,
+        "votes": 448
+      },
+      {
+        "optionText": "Make the essay anyways",
+        "percentage": 36.88,
+        "votes": 2148
+      }
+    ],
+    "totalVotes": 5823
+  },
+  {
+    "question": "Does listening to an audiobook count as reading a book?",
+    "totalVotes": 1387,
+    "options": [
+      {
+        "optionText": "Yes (under 30 years old)",
+        "votes": 493,
+        "percentage": 36
+      },
+      {
+        "optionText": "No (under 30 years old)",
+        "votes": 582,
+        "percentage": 42
+      },
+      {
+        "optionText": "Yes (30-50 years old)",
+        "votes": 161,
+        "percentage": 12
+      },
+      {
+        "optionText": "No (30-50 years old)",
+        "votes": 118,
+        "percentage": 8
+      },
+      {
+        "optionText": "Yes (over 50 years old)",
+        "votes": 20,
+        "percentage": 1
+      },
+      {
+        "optionText": "No (over 50 years old)",
+        "votes": 13,
+        "percentage": 1
+      }
+    ]
+  },
+  {
+    "question": "Do you think killing animals for food is moral?",
+    "totalVotes": 11410,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 6400,
+        "percentage": 56
+      },
+      {
+        "optionText": "No",
+        "votes": 1200,
+        "percentage": 10
+      },
+      {
+        "optionText": "It depends",
+        "votes": 3400,
+        "percentage": 30
+      },
+      {
+        "optionText": "Results",
+        "votes": 410,
+        "percentage": 4
+      }
+    ]
+  },
+  {
+    "question": "How many numbers are in the alphabet?",
+    "totalVotes": 4298,
+    "options": [
+      {
+        "optionText": "26",
+        "votes": 1500,
+        "percentage": 35
+      },
+      {
+        "optionText": "25",
+        "votes": 60,
+        "percentage": 1
+      },
+      {
+        "optionText": "24",
+        "votes": 169,
+        "percentage": 4
+      },
+      {
+        "optionText": "27",
+        "votes": 175,
+        "percentage": 4
+      },
+      {
+        "optionText": "28",
+        "votes": 94,
+        "percentage": 2
+      },
+      {
+        "optionText": "0",
+        "votes": 2300,
+        "percentage": 54
+      }
+    ]
+  },
+  {
+    "question": "Should the US increase or decrease its military and financial support for Ukraine?",
+    "options": [
+      {
+        "optionText": "Increase",
+        "percentage": 52.26,
+        "votes": 3264
+      },
+      {
+        "optionText": "Decrease",
+        "percentage": 12.99,
+        "votes": 811
+      },
+      {
+        "optionText": "Maintain",
+        "percentage": 22.03,
+        "votes": 1376
+      },
+      {
+        "optionText": "End support",
+        "percentage": 12.71,
+        "votes": 794
+      }
+    ],
+    "totalVotes": 6245
+  },
+  {
+    "question": "What speed do you listen to your podcasts or audiobooks at?",
+    "options": [
+      {
+        "optionText": "below 1.0",
+        "percentage": 1.16,
+        "votes": 58
+      },
+      {
+        "optionText": "1.0",
+        "percentage": 69.94,
+        "votes": 3471
+      },
+      {
+        "optionText": "1.1-1.3x",
+        "percentage": 13.87,
+        "votes": 689
+      },
+      {
+        "optionText": "1.4-1.6x",
+        "percentage": 9.83,
+        "votes": 488
+      },
+      {
+        "optionText": "1.7x or higher",
+        "percentage": 5.2,
+        "votes": 258
+      }
+    ],
+    "totalVotes": 4964
+  },
+  {
+    "question": "Do your ears make a noise when you swallow?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 74.12,
+        "votes": 2917
+      },
+      {
+        "optionText": "No",
+        "percentage": 25.88,
+        "votes": 1019
+      }
+    ],
+    "totalVotes": 3936
+  },
+  {
+    "question": "Which option would you choose if you had to choose? Edit: you can choose which limb and choose either deaf or blind.",
+    "totalVotes": 12458,
+    "options": [
+      {
+        "optionText": "Dying right now from asphyxiation",
+        "votes": 654,
+        "percentage": 5
+      },
+      {
+        "optionText": "Losing any 1 limb",
+        "votes": 3000,
+        "percentage": 24
+      },
+      {
+        "optionText": "Lose your 2 closest people in death",
+        "votes": 142,
+        "percentage": 1
+      },
+      {
+        "optionText": "Go deaf or blind",
+        "votes": 562,
+        "percentage": 5
+      },
+      {
+        "optionText": "10,000 random strangers, die instantly painlessly",
+        "votes": 6200,
+        "percentage": 50
+      },
+      {
+        "optionText": "Results",
+        "votes": 1900,
+        "percentage": 15
+      }
+    ]
+  },
+  {
+    "question": "You have to marry the last video game character you played as. How happy are you about this?",
+    "totalVotes": 10900,
+    "options": [
+      {
+        "optionText": "Yes yes yes yes yes yes yes yes",
+        "votes": 1800,
+        "percentage": 17
+      },
+      {
+        "optionText": "This is pretty good",
+        "votes": 2100,
+        "percentage": 19
+      },
+      {
+        "optionText": "Meh",
+        "votes": 1500,
+        "percentage": 14
+      },
+      {
+        "optionText": "Not great",
+        "votes": 1900,
+        "percentage": 17
+      },
+      {
+        "optionText": "No no no no no no no no no no",
+        "votes": 2500,
+        "percentage": 23
+      },
+      {
+        "optionText": "Results",
+        "votes": 1100,
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "question": "Have you ever tried taking a cold shower?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 87.43,
+        "votes": 2015
+      },
+      {
+        "optionText": "No",
+        "percentage": 11.41,
+        "votes": 263
+      },
+      {
+        "optionText": "Results",
+        "percentage": 1.16,
+        "votes": 27
+      }
+    ],
+    "totalVotes": 2305
+  },
+  {
+    "question": "Do you consider nuclear power to be \"green energy\"? Yes or No",
+    "totalVotes": 1125,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 879,
+        "percentage": 78
+      },
+      {
+        "optionText": "No",
+        "votes": 246,
+        "percentage": 22
+      }
+    ]
+  },
+  {
+    "question": "Thinking of subscribing to some influencers content on tiktok but idk if I should do it is it worth it?",
+    "options": [
+      {
+        "optionText": "yes",
+        "percentage": 8.47,
+        "votes": 354
+      },
+      {
+        "optionText": "no",
+        "percentage": 91.53,
+        "votes": 3825
+      }
+    ],
+    "totalVotes": 4179
+  },
+  {
+    "question": "Has your opinion of Elon Musk changed compared 2024 and 2018 ? How?",
+    "totalVotes": 1221,
+    "options": [
+      {
+        "optionText": "No - I still have a favourable opinion of him",
+        "votes": 98,
+        "percentage": 8
+      },
+      {
+        "optionText": "No - I still have an unfavourable opinion of him",
+        "votes": 287,
+        "percentage": 23
+      },
+      {
+        "optionText": "Yes - I used to have a favourable opinion of him, but now i have an unfavourable one",
+        "votes": 632,
+        "percentage": 52
+      },
+      {
+        "optionText": "Yes - I used to have an unfavourable opinion of him, but now I have a favourable one",
+        "votes": 25,
+        "percentage": 2
+      },
+      {
+        "optionText": "I don't have an opinion of him",
+        "votes": 108,
+        "percentage": 9
+      },
+      {
+        "optionText": "Just give me the results",
+        "votes": 71,
+        "percentage": 6
+      }
+    ]
+  },
+  {
+    "question": "A zombie apocalypse has broken out and you have the abilities of the last video game you played. How screwed are you?",
+    "totalVotes": 12159,
+    "options": [
+      {
+        "optionText": "I kill every zombie",
+        "votes": 4800,
+        "percentage": 40
+      },
+      {
+        "optionText": "I survive it at least",
+        "votes": 4100,
+        "percentage": 34
+      },
+      {
+        "optionText": "I probably die in a week",
+        "votes": 1700,
+        "percentage": 14
+      },
+      {
+        "optionText": "Insta death",
+        "votes": 896,
+        "percentage": 7
+      },
+      {
+        "optionText": "Results / Don't play video games",
+        "votes": 663,
+        "percentage": 5
+      }
+    ]
+  },
+  {
+    "question": "Do you like having a \"Results\" option on polls?",
+    "totalVotes": 1201,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 674,
+        "percentage": 56
+      },
+      {
+        "optionText": "No",
+        "votes": 115,
+        "percentage": 10
+      },
+      {
+        "optionText": "Results",
+        "votes": 412,
+        "percentage": 34
+      }
+    ]
+  },
+  {
+    "question": "Is it wrong to abort a pregnancy, because you don't prefer the gender of the baby?",
+    "totalVotes": 8000,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 6700,
+        "percentage": 84
+      },
+      {
+        "optionText": "No",
+        "votes": 1300,
+        "percentage": 16
+      }
+    ]
+  },
+  {
+    "question": "Do you know the king of Spain's name?",
+    "options": [
+      {
+        "optionText": "Yes, I know the King of Spain's name",
+        "percentage": 16.6,
+        "votes": 884
+      },
+      {
+        "optionText": "I know Spain has a king but I don't know his name",
+        "percentage": 51.01,
+        "votes": 2718
+      },
+      {
+        "optionText": "Wait... Spain has a king?",
+        "percentage": 30.36,
+        "votes": 1617
+      },
+      {
+        "optionText": "Other (obligatory)",
+        "percentage": 2.02,
+        "votes": 108
+      }
+    ],
+    "totalVotes": 5327
+  },
+  {
+    "question": "On a scale of 1-5 (five being excellent), how would you grade Wikipedia as a resource?",
+    "totalVotes": 1034,
+    "options": [
+      {
+        "optionText": "5",
+        "votes": 246,
+        "percentage": 24
+      },
+      {
+        "optionText": "4",
+        "votes": 510,
+        "percentage": 49
+      },
+      {
+        "optionText": "3",
+        "votes": 229,
+        "percentage": 22
+      },
+      {
+        "optionText": "2",
+        "votes": 34,
+        "percentage": 3
+      },
+      {
+        "optionText": "1",
+        "votes": 15,
+        "percentage": 2
+      }
+    ]
+  },
+  {
+    "question": "What's the youngest would you be ok with your child watching an R-rated movie?",
+    "totalVotes": 1636,
+    "options": [
+      {
+        "optionText": "No younger than 18!",
+        "votes": 56,
+        "percentage": 4
+      },
+      {
+        "optionText": "16-17",
+        "votes": 326,
+        "percentage": 20
+      },
+      {
+        "optionText": "13-15",
+        "votes": 560,
+        "percentage": 34
+      },
+      {
+        "optionText": "10-12",
+        "votes": 132,
+        "percentage": 8
+      },
+      {
+        "optionText": "0-9",
+        "votes": 56,
+        "percentage": 3
+      },
+      {
+        "optionText": "Depends on why it's rated R",
+        "votes": 506,
+        "percentage": 31
+      }
+    ]
+  },
+  {
+    "question": "If you got the chance to, would you eat cooked alien meat?",
+    "options": [
+      {
+        "optionText": "I have to know what it's like. I'm taking the risk",
+        "percentage": 30.73,
+        "votes": 854
+      },
+      {
+        "optionText": "I'm in a dilemma",
+        "percentage": 13.54,
+        "votes": 376
+      },
+      {
+        "optionText": "AWW HELL NAW!",
+        "percentage": 55.73,
+        "votes": 1548
+      }
+    ],
+    "totalVotes": 2778
+  },
+  {
+    "question": "Use the coordinate generator below. How fuck are you if you got teleported there?",
+    "totalVotes": 11991,
+    "options": [
+      {
+        "optionText": "Fucked",
+        "votes": 7700,
+        "percentage": 64
+      },
+      {
+        "optionText": "Will survive for a little bit",
+        "votes": 2000,
+        "percentage": 17
+      },
+      {
+        "optionText": "OK",
+        "votes": 1100,
+        "percentage": 9
+      },
+      {
+        "optionText": "Pretty good",
+        "votes": 789,
+        "percentage": 7
+      },
+      {
+        "optionText": "I'm in paradise",
+        "votes": 227,
+        "percentage": 2
+      },
+      {
+        "optionText": "Not far from home",
+        "votes": 175,
+        "percentage": 1
+      }
+    ]
+  },
+  {
+    "question": "Is it trashy to have an American flag in your room? Assume 65% American, 39% Other nationality voted.",
+    "totalVotes": 11400,
+    "options": [
+      {
+        "optionText": "Yes (American)",
+        "votes": 3500,
+        "percentage": 31
+      },
+      {
+        "optionText": "No (American)",
+        "votes": 3600,
+        "percentage": 32
+      },
+      {
+        "optionText": "Yes (other)",
+        "votes": 2300,
+        "percentage": 20
+      },
+      {
+        "optionText": "No (other)",
+        "votes": 2000,
+        "percentage": 17
+      }
+    ]
+  },
+  {
+    "question": "You get teleported to a random historical event, how high are your chances of survival?",
+    "totalVotes": 11125,
+    "options": [
+      {
+        "optionText": "Very high",
+        "votes": 1400,
+        "percentage": 12
+      },
+      {
+        "optionText": "High",
+        "votes": 1100,
+        "percentage": 10
+      },
+      {
+        "optionText": "I have no idea",
+        "votes": 3200,
+        "percentage": 29
+      },
+      {
+        "optionText": "Low",
+        "votes": 2100,
+        "percentage": 19
+      },
+      {
+        "optionText": "Very low",
+        "votes": 3000,
+        "percentage": 27
+      },
+      {
+        "optionText": "Results",
+        "votes": 325,
+        "percentage": 3
+      }
+    ]
+  },
+  {
+    "question": "There’s 1 last empty seat in a bus. Who should sit there?",
+    "totalVotes": 9300,
+    "options": [
+      {
+        "optionText": "A 7+ months pregnant woman",
+        "votes": 2800,
+        "percentage": 30
+      },
+      {
+        "optionText": "An adult male with a broken leg",
+        "votes": 2900,
+        "percentage": 31
+      },
+      {
+        "optionText": "An old (75+) man",
+        "votes": 1200,
+        "percentage": 13
+      },
+      {
+        "optionText": "A woman with a 1 month old baby.",
+        "votes": 1000,
+        "percentage": 11
+      },
+      {
+        "optionText": "Results",
+        "votes": 1400,
+        "percentage": 15
+      }
+    ]
+  },
+  {
+    "question": "Would you move to the country south of yours for $250,000?",
+    "totalVotes": 11600,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 5600,
+        "percentage": 48
+      },
+      {
+        "optionText": "No",
+        "votes": 6000,
+        "percentage": 52
+      }
+    ]
+  },
+  {
+    "question": "Thoughts on this Song: DK Rap?",
+    "options": [
+      {
+        "optionText": "I love it",
+        "percentage": 20.59,
+        "votes": 1468
+      },
+      {
+        "optionText": "I like it",
+        "percentage": 22.06,
+        "votes": 1573
+      },
+      {
+        "optionText": "I'm pretty mixed on it",
+        "percentage": 5.88,
+        "votes": 419
+      },
+      {
+        "optionText": "I don't like it",
+        "percentage": 1.47,
+        "votes": 105
+      },
+      {
+        "optionText": "I hate it",
+        "percentage": 5.88,
+        "votes": 419
+      },
+      {
+        "optionText": "Results",
+        "percentage": 44.12,
+        "votes": 3146
+      }
+    ],
+    "totalVotes": 7130
+  },
+  {
+    "question": "Do you consider your life a failure?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 33.33,
+        "votes": 2540
+      },
+      {
+        "optionText": "No",
+        "percentage": 66.67,
+        "votes": 5081
+      }
+    ],
+    "totalVotes": 7621
+  },
+  {
+    "question": "Have you installed Raid: Shadow Legends? (Not Sponsored)",
+    "totalVotes": 5331,
+    "options": [
+      {
+        "optionText": "Yes and I frequently play",
+        "votes": 18,
+        "percentage": 0
+      },
+      {
+        "optionText": "Yes but I don't play much",
+        "votes": 10,
+        "percentage": 0
+      },
+      {
+        "optionText": "Yes I used to play but stopped",
+        "votes": 219,
+        "percentage": 4
+      },
+      {
+        "optionText": "Yes I installed it but haven't started playing yet",
+        "votes": 44,
+        "percentage": 1
+      },
+      {
+        "optionText": "No and I'm not interested",
+        "votes": 4900,
+        "percentage": 92
+      },
+      {
+        "optionText": "No but I may/probably will in the future",
+        "votes": 140,
+        "percentage": 3
+      }
+    ]
+  },
+  {
+    "question": "Do you still call X “Twitter” in 2024?",
+    "totalVotes": 1689,
+    "options": [
+      {
+        "optionText": "Yes",
+        "votes": 1600,
+        "percentage": 95
+      },
+      {
+        "optionText": "No",
+        "votes": 89,
+        "percentage": 5
+      }
+    ]
+  },
+  {
+    "question": "what do you think -5²is?",
+    "totalVotes": 12027,
+    "options": [
+      {
+        "optionText": "-25",
+        "votes": 3200,
+        "percentage": 27
+      },
+      {
+        "optionText": "25",
+        "votes": 7900,
+        "percentage": 66
+      },
+      {
+        "optionText": "Other",
+        "votes": 286,
+        "percentage": 2
+      },
+      {
+        "optionText": "Results",
+        "votes": 641,
+        "percentage": 5
+      }
+    ]
+  },
+  {
+    "question": "You’re offered $10 million to be one of the 100 men vs 1 gorilla, would you take it?",
+    "options": [
+      {
+        "optionText": "Yes",
+        "percentage": 59.71,
+        "votes": 330
+      },
+      {
+        "optionText": "No",
+        "percentage": 40.29,
+        "votes": 223
+      }
+    ],
+    "totalVotes": 553
+  }
+]
