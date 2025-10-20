@@ -2,7 +2,7 @@
 
 ## Overview
 
-This pipeline evaluates Large Language Models (LLMs) on their ability to predict poll results by analyzing social contexts and user behavior patterns. The task involves predicting probability distributions over answer choices for polls from Reddit and Weibo platforms, with a current demonstration dataset of 1,400+ samples (200+ Reddit, 1,200+ Weibo) and demonstration metadata.
+This pipeline evaluates Large Language Models (LLMs) on their ability to predict poll results by analyzing social contexts and user behavior patterns. The task involves predicting probability distributions over answer choices for polls from Reddit and Weibo platforms, with a current english dataset of 700+ samples (100+ Reddit, 600+ Weibo) for demonstration.
 
 ## Notice
 
@@ -53,10 +53,34 @@ python -m evaluation_pipe.main --skip-api
 
 ## Evaluation Metrics
 
-The pipeline uses the 1-Wasserstein distance (Earth Mover's Distance) to evaluate prediction quality:
+The pipeline uses multiple complementary metrics to evaluate prediction quality, following the OpinionQA benchmark methodology:
+
+### 1-Wasserstein Distance (Earth Mover's Distance)
 - Measures the minimum "work" required to transform the predicted distribution into the ground truth
 - Accounts for both the magnitude and position of probability mass differences
 - Normalized to handle varying numbers of poll options
+- Lower values indicate better performance
+
+### KL Divergence (Kullback-Leibler Divergence)
+- Measures how different the predicted probability distribution is from the ground truth
+- Sensitive to exact probability values and penalizes confident wrong predictions
+- Lower values indicate better performance
+- Asymmetric measure: KL(P||Q) ≠ KL(Q||P)
+
+### Spearman Rank Correlation
+- Measures the correlation between the rankings of predicted and ground truth distributions
+- Evaluates whether the model captures the relative ordering of options correctly
+- Range: [-1, 1], where 1 indicates perfect positive correlation
+- Higher values indicate better performance
+
+### One-Hot Accuracy (Top-1 Accuracy)
+- Measures how often the model's top choice matches the ground truth's top choice
+- Simple binary accuracy metric for the most probable option
+- Range: [0, 1], where 1 indicates perfect accuracy
+- Higher values indicate better performance
+
+
+
 
 ## Data Processing
 

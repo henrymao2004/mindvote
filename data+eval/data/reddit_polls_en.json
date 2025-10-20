@@ -85,37 +85,6 @@
     ]
   },
   {
-    "question": "Type \"watermelon\" anywhere (using a keyboard only) with you eyes closed. On a scale of 1 to 5, how close were you?",
-    "totalVotes": 11085,
-    "options": [
-      {
-        "optionText": "1",
-        "votes": 738,
-        "percentage": 7
-      },
-      {
-        "optionText": "2",
-        "votes": 547,
-        "percentage": 5
-      },
-      {
-        "optionText": "3",
-        "votes": 1100,
-        "percentage": 10
-      },
-      {
-        "optionText": "4",
-        "votes": 2600,
-        "percentage": 23
-      },
-      {
-        "optionText": "5",
-        "votes": 6100,
-        "percentage": 55
-      }
-    ]
-  },
-  {
     "question": "How nice do you think you are, honestly?",
     "options": [
       {
@@ -1210,42 +1179,6 @@
     ]
   },
   {
-    "question": "What day is your birthday?",
-    "totalVotes": 5457,
-    "options": [
-      {
-        "optionText": "1 - 5",
-        "votes": 909,
-        "percentage": 17
-      },
-      {
-        "optionText": "6 - 10",
-        "votes": 887,
-        "percentage": 16
-      },
-      {
-        "optionText": "11 - 15",
-        "votes": 895,
-        "percentage": 16
-      },
-      {
-        "optionText": "16 - 20",
-        "votes": 900,
-        "percentage": 16
-      },
-      {
-        "optionText": "21 - 25",
-        "votes": 904,
-        "percentage": 17
-      },
-      {
-        "optionText": "26 - 31",
-        "votes": 962,
-        "percentage": 18
-      }
-    ]
-  },
-  {
     "question": "When referencing a subreddit that starts with a consonant, do you use \"a\" or \"an\" when using it as a noun or adjective?",
     "options": [
       {
@@ -1629,42 +1562,7 @@
       }
     ]
   },
-  {
-    "question": "What difficulty do you tend to play video games on when given the option?",
-    "totalVotes": 1015,
-    "options": [
-      {
-        "optionText": "Very easy",
-        "votes": 52,
-        "percentage": 5
-      },
-      {
-        "optionText": "Easy",
-        "votes": 141,
-        "percentage": 14
-      },
-      {
-        "optionText": "Medium",
-        "votes": 580,
-        "percentage": 57
-      },
-      {
-        "optionText": "Hard",
-        "votes": 162,
-        "percentage": 16
-      },
-      {
-        "optionText": "Very hard",
-        "votes": 59,
-        "percentage": 6
-      },
-      {
-        "optionText": "Results",
-        "votes": 21,
-        "percentage": 2
-      }
-    ]
-  },
+
   {
     "question": "You are in Target and you see a young mom stealing baby food. Would you do something about it?",
     "totalVotes": 11940,
@@ -1693,42 +1591,6 @@
         "optionText": "Results",
         "votes": 926,
         "percentage": 8
-      }
-    ]
-  },
-  {
-    "question": "How many countries are in North America?",
-    "totalVotes": 12903,
-    "options": [
-      {
-        "optionText": "1",
-        "votes": 260,
-        "percentage": 2
-      },
-      {
-        "optionText": "2",
-        "votes": 1900,
-        "percentage": 15
-      },
-      {
-        "optionText": "3",
-        "votes": 6200,
-        "percentage": 48
-      },
-      {
-        "optionText": "4",
-        "votes": 568,
-        "percentage": 4
-      },
-      {
-        "optionText": "5",
-        "votes": 275,
-        "percentage": 2
-      },
-      {
-        "optionText": "6 or above",
-        "votes": 3700,
-        "percentage": 29
       }
     ]
   },
@@ -1824,22 +1686,6 @@
       }
     ],
     "totalVotes": 6365
-  },
-  {
-    "question": "Whats the solution for this 1+1+1+1+1×0 = ?",
-    "totalVotes": 11000,
-    "options": [
-      {
-        "optionText": "0",
-        "votes": 3000,
-        "percentage": 27
-      },
-      {
-        "optionText": "4",
-        "votes": 8000,
-        "percentage": 73
-      }
-    ]
   },
   {
     "question": "Have you ever been within 10 feet of a cow? Edit: I mean live cows, beef doesn't count",
@@ -2009,42 +1855,6 @@
         "optionText": "Results",
         "votes": 410,
         "percentage": 4
-      }
-    ]
-  },
-  {
-    "question": "How many numbers are in the alphabet?",
-    "totalVotes": 4298,
-    "options": [
-      {
-        "optionText": "26",
-        "votes": 1500,
-        "percentage": 35
-      },
-      {
-        "optionText": "25",
-        "votes": 60,
-        "percentage": 1
-      },
-      {
-        "optionText": "24",
-        "votes": 169,
-        "percentage": 4
-      },
-      {
-        "optionText": "27",
-        "votes": 175,
-        "percentage": 4
-      },
-      {
-        "optionText": "28",
-        "votes": 94,
-        "percentage": 2
-      },
-      {
-        "optionText": "0",
-        "votes": 2300,
-        "percentage": 54
       }
     ]
   },

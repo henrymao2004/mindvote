@@ -16,6 +16,42 @@
     ]
   },
   {
+    "question": "What difficulty do you tend to play video games on when given the option?",
+    "totalVotes": 1015,
+    "options": [
+      {
+        "optionText": "Very easy",
+        "votes": 52,
+        "percentage": 5
+      },
+      {
+        "optionText": "Easy",
+        "votes": 141,
+        "percentage": 14
+      },
+      {
+        "optionText": "Medium",
+        "votes": 580,
+        "percentage": 57
+      },
+      {
+        "optionText": "Hard",
+        "votes": 162,
+        "percentage": 16
+      },
+      {
+        "optionText": "Very hard",
+        "votes": 59,
+        "percentage": 6
+      },
+      {
+        "optionText": "Results",
+        "votes": 21,
+        "percentage": 2
+      }
+    ]
+  },
+  {
     "question": "Do you agree to extend the holiday?",
     "totalVotes": 826,
     "options": [
