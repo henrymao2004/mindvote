@@ -2,16 +2,12 @@
 
 ## Overview
 
-This pipeline evaluates Large Language Models (LLMs) on their ability to predict poll results by analyzing social contexts and user behavior patterns. The task involves predicting probability distributions over answer choices for polls from Reddit and Weibo platforms, with a current english dataset of 700+ samples (100+ Reddit, 600+ Weibo) for demonstration.
+This pipeline evaluates Large Language Models (LLMs) on their ability to predict poll results by analyzing social contexts and user behavior patterns. The task involves predicting probability distributions over answer choices for polls from Reddit and Weibo platforms.
 
 ## Notice
 
-The complete mindvote  dataset is currently undergoing validation to ensure data quality and ethical compliance. The demonstration samples are carefully curated to enable immediate reproducibility assessment while maintaining research integrity.
+The mindvote  dataset is currently undergoing validation to ensure data quality and ethical compliance. 
 
-## Dataset
-
-
-The complete dataset (3,918 polls) will be made publicly available following academic peer review.
 
 ## Features
 
